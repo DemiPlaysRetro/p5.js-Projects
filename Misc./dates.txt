@@ -1,0 +1,11 @@
+1. Arm thing (Trig demo) | Nov 12, 2024, 11:01:57 AM | Nov 12, 2024, 11:17:58 AM
+2. Unit Circle (Trig demo) | Nov 18, 2024, 7:59:40 AM | Nov 18, 2024, 8:35:50 AM
+3. Wry Sign (Randomness demo) | Nov 21, 2024, 10:04:54 AM | Nov 21, 2024, 10:19:35 AM
+4. Glaze Witness (The name is funny, so I added it in) | Nov 21, 2024, 10:35:54 AM | Nov 21, 2024, 10:56:55 AM
+5. Angle between two points (Just to make sure I knew how) | Dec 6, 2024, 8:40:17 AM | Dec 6, 2024, 9:03:46 AM
+6. Waiting Apparel (Finals were slowly driving me insane) | Dec 22, 2024, 11:06:24 AM | Dec 22, 2024, 11:30:50 AM
+7. Thoughts (Fork of Weighted Probability, to describe angles in triangles...I won't explain how) | Dec 22, 2024, 11:31:04 AM | Dec 22, 2024, 11:36:03 AM
+8. Bustling principle (I was examining non-right triangles, but the text function is my sworn enemy) | 	Dec 28, 2024, 2:17:32 PM | 	Dec 28, 2024, 2:32:16 PM
+9. Rotating square (Not quite...but yeah) | Jan 6, 2025, 12:50:20 PM | Jan 6, 2025, 12:52:02 PM
+10. Useful functions (Putting functions I like here) | Jan 6, 2025, 1:10:53 PM | Jan 6, 2025, 1:20:39 PM
+11. Rotate square about center (This made me really happy) | Jan 6, 2025, 1:21:00 PM | Jan 6, 2025, 1:33:10 PM
